@@ -7,8 +7,8 @@ You can customize its properties in Interface Builder:
 # Demo Preview
 ![alt tag](http://s24.postimg.org/6ayprxvz9/NPProgress_Label.gif)
 
-#Usage
+# Usage
 Please check out example project.
 
-#License
+# License
 MIT
