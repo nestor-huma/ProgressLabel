@@ -1,0 +1,6 @@
+framework module Pods_ProgressLabel_Tests {
+  umbrella header "Pods-ProgressLabel_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

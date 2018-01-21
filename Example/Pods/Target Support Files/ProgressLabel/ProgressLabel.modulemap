@@ -1,0 +1,6 @@
+framework module ProgressLabel {
+  umbrella header "ProgressLabel-umbrella.h"
+
+  export *
+  module * { export * }
+}

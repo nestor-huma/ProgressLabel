@@ -1,0 +1,16 @@
+PODS:
+  - ProgressLabel (0.1.0)
+
+DEPENDENCIES:
+  - ProgressLabel (from `../`)
+
+EXTERNAL SOURCES:
+  ProgressLabel:
+    :path: ../
+
+SPEC CHECKSUMS:
+  ProgressLabel: fa29ba29a7ef664b0fa947a1cbc2edd63da1bc6d
+
+PODFILE CHECKSUM: e721010053c4f47c52ace7bcbfee30c4cb76e9c2
+
+COCOAPODS: 1.4.0.rc.1

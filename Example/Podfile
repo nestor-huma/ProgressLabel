@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ProgressLabel_Example' do
+  pod 'ProgressLabel', :path => '../'
+
+  target 'ProgressLabel_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
