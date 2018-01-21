@@ -5,9 +5,16 @@
 [![License](https://img.shields.io/cocoapods/l/ProgressLabel.svg?style=flat)](http://cocoapods.org/pods/ProgressLabel)
 [![Platform](https://img.shields.io/cocoapods/p/ProgressLabel.svg?style=flat)](http://cocoapods.org/pods/ProgressLabel)
 
+Customizable progress indicator, which displays progress by filling stroked text.
+You can customize its properties in Interface Builder:
+
+![alt tag](http://s9.postimg.org/83fj4m0of/Screen_Shot_2016_03_07_at_3_22_30_PM.png)
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
+
+![alt tag](http://s24.postimg.org/6ayprxvz9/NPProgress_Label.gif)
 
 ## Requirements
 
