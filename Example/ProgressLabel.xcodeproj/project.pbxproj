@@ -47,7 +47,7 @@
 		8EAEE13C20152CAF0099B5FA /* UIImage+Gradient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIImage+Gradient.swift"; sourceTree = "<group>"; };
 		B24E6C096BF8D10ADA738997 /* Pods-ProgressLabel_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ProgressLabel_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-ProgressLabel_Tests/Pods-ProgressLabel_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		CB3ED5B941EFA75A697539D5 /* Pods-ProgressLabel_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ProgressLabel_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-ProgressLabel_Example/Pods-ProgressLabel_Example.release.xcconfig"; sourceTree = "<group>"; };
-		DE9CEE4A07B8909AEB539438 /* ProgressLabel.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = ProgressLabel.podspec; path = ../ProgressLabel.podspec; sourceTree = "<group>"; };
+		DE9CEE4A07B8909AEB539438 /* ProgressLabel.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = ProgressLabel.podspec; path = ../ProgressLabel.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		E938E8ACA6766104F7633EF2 /* Pods-ProgressLabel_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ProgressLabel_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ProgressLabel_Tests/Pods-ProgressLabel_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
